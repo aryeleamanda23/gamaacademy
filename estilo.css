@@ -1,0 +1,93 @@
+body {
+	padding: 0;
+    margin-right: 500px;
+	background: #5DADE2;
+
+}
+a{
+color: inherit; 
+text-decoration: none;
+	
+}
+#navbar {
+	position: relative;
+	padding-right: 350px; 
+	padding-top: 100px;
+}
+#materia{
+	display: inline-flex;
+	justify-content: space-between;
+	text-decoration: none;
+
+} 
+.materiavideos {
+
+	width: 50px:
+	height 100px;
+	margin-left: 35px;
+	margin-right: 10px;
+	
+}
+p {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+title {
+	font-family: sans-serif;
+}
+ul {
+background-color:#D0D3D4 ; /*#D0D3D4 */
+
+width: 100%;
+list-style-type: none;
+overflow: hidden;
+text-decoration: none;
+position: fixed;
+top: 0;
+width: 50;
+}
+
+li {
+
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 14px 16px;
+  text-decoration: none;
+  position: fixed;
+}
+#img {
+	display: inline-flex;
+	justify-content: space-between;
+	text-decoration: none;
+
+}
+h2 {
+
+	text-align: center;
+	margin-left: 35px;
+	margin-right: 10px;
+	
+
+}
+img.displayed {
+    margin-left: 45px;
+	margin-right: 20px;
+	float:left;
+    max-width:500px;
+    margin-left:10px;
+
+	}
+#materiaimg
+ {
+	width: 50px:
+	height 100px;
+	margin-left: 35px;
+	margin-right: 10px;
+}
+.redes {
+	
+}
